@@ -1,2 +1,2 @@
 # scratch
-Scratch coding
+Scratch games coding
